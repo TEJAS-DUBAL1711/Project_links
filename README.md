@@ -12,7 +12,7 @@
 
 ---
 
-## Pavitrya - Women's Hygiene App
+## Pavitrya - Temple App
 
 **Play Store Link:** [https://play.google.com/store/apps/details?id=pavitrya.easy2it.com&pcampaignid=web_share](https://play.google.com/store/apps/details?id=pavitrya.easy2it.com&pcampaignid=web_share)
 
